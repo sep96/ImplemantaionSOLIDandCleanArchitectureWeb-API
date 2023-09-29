@@ -1,18 +1,9 @@
-# BikeStores WEB API
+# BikeStore
 
-![Alt Text](https://github.com/alkaren/EF-CORE-6-ASP.NET-Core-Web-API/blob/main/example.png)
+![image](https://github.com/sep96/ImplemantaionSOLIDandCleanArchitectureWeb-API/assets/30704455/7f5db4e1-d4b3-4106-9a62-bccb6d3abce8)
 
-## Using
-- SQL Server
-- EF Core 6
-- ASP.NET Core Web API
-- CRUD
-- SWAGGER
 
-## Packages
-The package reference is available
-<ul>
-  <li><a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/">Microsoft.EntityFrameworkCore.Design</a></li>
-  <li><a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/">Microsoft.EntityFrameworkCore.SqlServer</a></li>
-  <li><a href="https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/">Microsoft.AspNetCore.Mvc.NewtonsoftJson</a></li>
-</ul>
+this Project Create to Redisigned <a href="https://github.com/alkaren/EF-CORE-6-ASP.NET-Core-Web-API"> EF-CORE-6-ASP.NET-Core-Web-API </a> Project from All in One to Solid and Clean Architecture.
+
+
+This repository will be updated continuously👷 .
