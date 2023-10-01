@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj": {}
+    "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj": {}
   },
   "projects": {
-    "D:\\Project\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj": {
+    "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj",
         "projectName": "BikeStore.Application",
-        "projectPath": "D:\\Project\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj",
-        "packagesPath": "C:\\Users\\Caroline\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\BikeStores.MSSQL\\BikeStore.Application\\obj\\",
+        "projectPath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Application\\BikeStore.Application.csproj",
+        "packagesPath": "C:\\Users\\sepehr.ashtari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Caroline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sepehr.ashtari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,13 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\sepehr.ashtari\\Desktop\\project\\Nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\BikeStore.Data.csproj": {
+                "projectPath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\BikeStore.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,7 +64,77 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\BikeStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\BikeStore.Data.csproj",
+        "projectName": "BikeStore.Data",
+        "projectPath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\BikeStore.Data.csproj",
+        "packagesPath": "C:\\Users\\sepehr.ashtari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sepehr.ashtari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\sepehr.ashtari\\Desktop\\project\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

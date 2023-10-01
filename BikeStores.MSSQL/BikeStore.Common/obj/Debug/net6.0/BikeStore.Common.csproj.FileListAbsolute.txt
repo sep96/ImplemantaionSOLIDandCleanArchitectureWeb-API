@@ -1,0 +1,12 @@
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\bin\Debug\net6.0\BikeStore.Common.deps.json
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\bin\Debug\net6.0\BikeStore.Common.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\bin\Debug\net6.0\BikeStore.Common.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.csproj.AssemblyReference.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.AssemblyInfoInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.AssemblyInfo.cs
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\refint\BikeStore.Common.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\BikeStore.Common.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Common\obj\Debug\net6.0\ref\BikeStore.Common.dll

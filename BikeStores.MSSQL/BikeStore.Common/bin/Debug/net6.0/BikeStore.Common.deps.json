@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BikeStore.Common/1.0.0": {
+        "runtime": {
+          "BikeStore.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BikeStore.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

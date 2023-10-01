@@ -1,0 +1,15 @@
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\bin\Debug\net6.0\BikeStore.Application.deps.json
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\bin\Debug\net6.0\BikeStore.Application.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\bin\Debug\net6.0\BikeStore.Application.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\bin\Debug\net6.0\BikeStore.Data.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\bin\Debug\net6.0\BikeStore.Data.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.csproj.AssemblyReference.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.AssemblyInfoInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.AssemblyInfo.cs
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.csproj.CopyComplete
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\refint\BikeStore.Application.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\BikeStore.Application.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Application\obj\Debug\net6.0\ref\BikeStore.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\bin\Debug\net6.0\BikeStore.Data.deps.json
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\bin\Debug\net6.0\BikeStore.Data.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\bin\Debug\net6.0\BikeStore.Data.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.csproj.AssemblyReference.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.AssemblyInfoInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.AssemblyInfo.cs
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\refint\BikeStore.Data.dll
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\BikeStore.Data.pdb
+C:\Users\sepehr.ashtari\Desktop\project\ImplemantaionSOLIDandCleanArchitectureWeb-API\BikeStores.MSSQL\BikeStore.Data\obj\Debug\net6.0\ref\BikeStore.Data.dll

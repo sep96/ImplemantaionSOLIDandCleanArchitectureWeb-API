@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jqdywk6dMFbpuln95BNQgFvK+P7JbESkgPDqY79cGmIa4fp9UTLFjCF220jcJHi6MgZ+sb72Z71H80N/Z8poAw==",
+  "dgSpecHash": "GX7eXcYZ1/E9++xJj4SHPfodJ1c84ixVJdWd/YdZnf6cURgSigePSCorewEo+iMyeRlLSAA3M/XuFJ5/lBgLsQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\BikeStores.MSSQL\\BikeStore.Common\\BikeStore.Common.csproj",
+  "projectFilePath": "C:\\Users\\sepehr.ashtari\\Desktop\\project\\ImplemantaionSOLIDandCleanArchitectureWeb-API\\BikeStores.MSSQL\\BikeStore.Common\\BikeStore.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
