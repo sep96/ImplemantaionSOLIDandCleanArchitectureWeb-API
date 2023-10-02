@@ -6,4 +6,4 @@
 this Project Create to Redisigned <a href="https://github.com/alkaren/EF-CORE-6-ASP.NET-Core-Web-API"> EF-CORE-6-ASP.NET-Core-Web-API </a> Project from All in One to Solid and Clean Architecture.
 
 
-This repository will be updated continuously👷 ..
+This repository will be updated continuously👷 ....
