@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BikeStore.Application.Staffs
-{//Test
+{//Test2
     public interface IStaffsRepository : IServiceRespository<Staff>
     {
     }
